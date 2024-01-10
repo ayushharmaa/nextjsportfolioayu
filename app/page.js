@@ -1,4 +1,4 @@
-document.body.style.background; 
+ 
 
 
 import Image from "next/image"
